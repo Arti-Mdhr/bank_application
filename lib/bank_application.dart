@@ -263,7 +263,7 @@ void main(List<String> args) {
   var sav = SavingsAccount(1001, "Sita Shrestha", 2000);
   var prem = PremiumAccount(2002, "Hari Katwal", 500000);
   var check = CheckingAccount(3003, "Manat ghale", 4000);
-  var std = StudentAccount(1234, "Susma Moktan", 2000);
+  var std = StudentAccount(1234, "Susmita Moktan", 2000);
 
   bank.addAccount(sav);
   bank.addAccount(prem);
